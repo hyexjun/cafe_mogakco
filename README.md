@@ -1,4 +1,4 @@
-# Mini Project #1 Cafe_Mogakco
+# Mini Project #1 Cafe Mogakco
 ### 프로젝트 기간 및 구성원 🎈
 - 기간 : 22년 7월 11일 ~ 14일
 - 구성원 : 박상진, 박혜정, 변지혜, 서정희
